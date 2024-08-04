@@ -1,0 +1,10 @@
+{
+    "name" : "Currency Converter Extension",
+    "description" : "The extension converts currency value of one counstry to another",
+    "version" : "1.0",
+    "manifest_version" : 3,
+    "action" : {
+        "default_popup" : "index.html",
+        "default_icon" : "icon.png"
+    }
+}
